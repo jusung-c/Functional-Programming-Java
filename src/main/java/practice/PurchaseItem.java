@@ -1,3 +1,5 @@
+package practice;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Getter;
